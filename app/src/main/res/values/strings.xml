@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WiP</string>
+    <string name="wip">Wardrobe in Pocket</string>
+
+    <string name="add">Добавить</string>
+    <string name="chouse_clothes">Вещь</string>
+    <string name="chouse_set">Комплект</string>
+
+    <string name="camera">Камера</string>
+    <string name="galery">Гелерея</string>
+
+    <string name="new_clothes">Новая вещь</string>
+    <string name="name">Название</string>
+    <string name="size">Размер</string>
+    <string name="color">Цвет</string>
+    <string name="category">Категория</string>
+    <string name="photo">Фотография</string>
+    <string name="advice">Делайте, пожалуйста, фотографии под прямым углом к одежде.</string>
+    <string name="title_activity_clothes_list">clothes_list</string>
+    <string name="my_look">Мой look на сегодня</string>
+    <string name="weather">Погода на сегодня</string>
+
+
+
+    <string name="clothes_name">Вещи</string>
+    <string name="set_name">Комплекты Вещей</string>
+    <string name="journey_name">Вещи в Поездку</string>
+
+    <string name="in_development">Данный раздел находится в разработке</string>
+
+</resources>
